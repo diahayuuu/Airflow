@@ -9,4 +9,4 @@ Proyek ini bertujuan untuk membangun sebuah data pipeline otomatis yang menginte
 
 ## Link 
 - **Blog Post**: https://www.notion.so/End-to-End-Data-Pipeline-untuk-Melihat-Pengaruh-Cuaca-Terhadap-Jumlah-Penjualan-145740c82dba80ba83fff541affdc878?pvs=4
-- **Video Presentasi**: 
+- **Video Presentasi**: https://drive.google.com/drive/folders/1RifhDtrrfOcD83tjTHIK3KIU6Oo44LWD?usp=sharing
